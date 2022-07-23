@@ -101,6 +101,13 @@ Start the server
 ![3](https://user-images.githubusercontent.com/72390265/175799751-2a061a90-738d-4b25-b8a8-751f3769a192.jpeg)
 ![5](https://user-images.githubusercontent.com/72390265/175799754-95e0cd7e-e728-43bd-a1d2-88307a3e16de.jpeg)
 
+## Authors
+
+- [@Shivam Akhouri](https://github.com/shivam-akhouri)
+- [@Vidhi Bhagwandas Ajbani](https://github.com/shivam-akhouri)
+- [@Suraj Shah](https://github.com/shivam-akhouri)
+- [@Neha Ragesh Nambiar](https://github.com/NehRagNam)
+
 
 ## Future Recommendations
 - to scrap more website such as instagram and insurance dekho to generate and identify leads
